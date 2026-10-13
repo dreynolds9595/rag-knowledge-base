@@ -1,0 +1,1 @@
+![CI](https://github.com/dreynolds9595/rag-knowledge-base/actions/workflows/ci.yml/badge.svg)
