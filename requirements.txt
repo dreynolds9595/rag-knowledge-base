@@ -5,4 +5,5 @@ groq
 pypdf
 python-dotenv
 pytest
+pytest-cov
 rank_bm25
